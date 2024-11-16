@@ -1,7 +1,6 @@
 # BUCKET LIST
-* TODO QA booklet-guide transcript                                 :creation:
-* TODO publish bash script                                         :creation:
-* DONE normalize pictures                                          :creation:
-* DONE normalize booklet-guide pictures                            :creation:
-* DONE create booklet-guide transcript                             :creation:
-
+* TODO Paraphrase and polish booklet-guide transcript.             :creation:
+* TODO Publish Bash script.                                        :creation:
+* DONE Normalize deck pictures.                                    :creation:
+* DONE Normalize booklet-guide pictures.                           :creation:
+* DONE Create booklet-guide rough transcript.                      :creation:
