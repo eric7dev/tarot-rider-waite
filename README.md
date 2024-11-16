@@ -3,7 +3,7 @@ CODENAME: Rider-Waite Tarot
 EXCERPT: Rider-Waite Tarot Reading using
 Bash and CSV. Images are in JPG format.
 Guide is a LibreOffice Writer rich text
- document.
+document.
 ----------------------------------------
 AUTHOR: Erich S.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
