@@ -1,0 +1,7 @@
+# BUCKET LIST
+* TODO QA booklet-guide transcript                                 :creation:
+* TODO publish bash script                                         :creation:
+* DONE normalize pictures                                          :creation:
+* DONE normalize booklet-guide pictures                            :creation:
+* DONE create booklet-guide transcript                             :creation:
+
